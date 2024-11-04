@@ -25,6 +25,10 @@ ul {
   font-style: italic;
 }
 
+.strong {
+  font-weight: bold;
+}
+
 .menu ul {
   list-style: none;
   background-color: black;
